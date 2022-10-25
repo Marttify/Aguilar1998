@@ -1,7 +1,6 @@
 # Hola, soy Martin 👋
-# 👋 Algo de mí
 
-¡Hola! soy Sebastián, cuento con más de 4 años de experiencia utilizando principalmente el ecosistema de **JavaScript**, con [ReactJS](https://es.reactjs.org/) por el lado del frontend, [NodeJS](https://nodejs.org/es/) para el backend y [NextJS](https://nextjs.org/) para fusionar ambos mundos bajo el mismo framework. Siempre con ganas de seguir mejorando y aprendido sobre el Desarrollo Web ya que es algo que me apasiona.
+
 &nbsp;  
 &nbsp;
 
