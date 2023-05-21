@@ -6,9 +6,11 @@
 
 ``` mermaid
 timeline
-   title Full Stack Developer 
+   title Sofware Developer
    Front-End : HTML: CSS: Sass: Bostrap 5: Style-Component: TailwindCss: JavaScript: React,js: Next.Js: Git: GitHub 
    Back-End : Node.js : PHP 
+   DeVops: Amazon Web Service
+   IOS: Swift
 ```
 
 ## Other Common Github Profile Sections
