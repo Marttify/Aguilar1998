@@ -1,5 +1,9 @@
 # Hello, I'm Martin 👋
 &nbsp;
+
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Developing-green)
+   ![GitHub Org's stars](https://img.shields.io/github/stars/Aguilar1998?style=social)
+
 ## Other Common Github Profile Sections
 
 👩‍💻 I currently work at CoderHouse as a teacher and at Bysbit as Full-Stack Development
