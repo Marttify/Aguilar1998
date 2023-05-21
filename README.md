@@ -1,8 +1,5 @@
-# Hola, soy Martin 👋
-
-
-
-
+# Hello, I'm Martin 👋
+&nbsp;
 ## Other Common Github Profile Sections
 
 👩‍💻 I currently work at CoderHouse as a teacher and at Bysbit as Full-Stack Development
@@ -17,10 +14,15 @@
 
 📫 How to contact me... : https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/
 
-
 😄 Pronouns... Tincho ✨
 
 ⚡️ Fun fact... I play 🎾 and ⚽️
+&nbsp;  
+&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguilar1998&show_icons=true&theme=radical)
+
+
 &nbsp;  
 &nbsp;
 
