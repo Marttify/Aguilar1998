@@ -7,8 +7,9 @@
 ``` mermaid
 timeline
    title Sofware Developer
+   Metodología ágil:  Scrum 
    Front-End : HTML: CSS: Sass: Bostrap 5: Style-Component: TailwindCss: JavaScript: React,js: Next.Js: Git: GitHub 
-   Back-End : Node.js : PHP 
+   Back-End : Node.js : PHP : C++
    DeVops: Amazon Web Service
    IOS: Swift
 ```
