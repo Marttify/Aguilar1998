@@ -1,8 +1,18 @@
 # Hello, I'm Martin 👋
 &nbsp;
 
-   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Developing-green)
-   ![GitHub Org's stars](https://img.shields.io/github/stars/Aguilar1998?style=social)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-Developing-green)
+   
+&nbsp;  
+&nbsp;
+##  📚 Roadmap
+
+``` mermaid
+timeline
+    title Full Stack Developer 
+    Front-End : HTML: CSS: JavaScript: React 
+    Back-End : Node.js : PHP : AWS 
+```
 
 ## Other Common Github Profile Sections
 
@@ -21,6 +31,7 @@
 😄 Pronouns... Tincho ✨
 
 ⚡️ Fun fact... I play 🎾 and ⚽️
+
 &nbsp;  
 &nbsp;
 
