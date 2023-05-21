@@ -1,6 +1,26 @@
 # Hola, soy Martin 👋
 
 
+
+
+## Other Common Github Profile Sections
+
+👩‍💻 I currently work at CoderHouse as a teacher and at Bysbit as Full-Stack Development
+
+🧠 I am currently learning Next.js and perfecting the Back-End
+
+⚙️ I am looking to collaborate on highly complex projects
+
+🤔 I am looking for help with new reference information in the sector
+
+💬 Ask me about best practices in HTML, CSS, JavaScript, and Git and GitHub.
+
+📫 How to contact me... : https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/
+
+
+😄 Pronouns... Tincho ✨
+
+⚡️ Fun fact... I play 🎾 and ⚽️
 &nbsp;  
 &nbsp;
 
@@ -17,3 +37,5 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
