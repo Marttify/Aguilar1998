@@ -1,4 +1,4 @@
-# Hola, soy Martín 👋 Tengo muchas píldoras para tu codigo!✨
+# Hola, soy Martín 👋 Tengo muchas píldoras para tu código!✨
 &nbsp;
 ## 🔔 Toma notas al ver mis proyectos... 🙌🏽
 &nbsp;
