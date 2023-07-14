@@ -1,7 +1,5 @@
 # Hola, soy Martín 👋 Tengo píldoras para tu código!✨
 &nbsp;
-## 🔔 Toma notas al ver mis proyectos... 🙌🏽
-&nbsp;
 ##  📚 Roadmap
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Developing-green)
