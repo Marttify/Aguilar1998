@@ -1,4 +1,4 @@
-# ¡Hola, soy Martín, Sofware Engineer que siempre comparte un momento de enseñanza! 👋🎓
+# ¡Hola, soy Martín, Sofware Engineer... Dispuesto siempre a dar un momento de enseñanza! 👋🎓
 
 Bienvenido a mi espacio donde la educación y la ingeniería del software se encuentran. 🌐✨ Tengo los conocimientos y las herramientas para llevar tus proyectos al siguiente nivel.
 
@@ -49,7 +49,6 @@ A diferencia de muchos, mi pantalla es para codificar; no verás películas en m
 &nbsp;  
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguilar1998&show_icons=true&theme=radical)
 
 ## 🧰 Habilidades Técnicas
 
