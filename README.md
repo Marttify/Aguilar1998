@@ -1,94 +1,45 @@
-# ¡Hola, soy Martín, Sofware Engineer... Dispuesto siempre a dar un momento de enseñanza! 👋🎓
 
-Bienvenido a mi espacio donde la educación y la ingeniería del software se encuentran. 🌐✨ Tengo los conocimientos y las herramientas para llevar tus proyectos al siguiente nivel.
+---
 
-## 📚 Roadmap de mi Carrera
+# 👋 Martín “Tincho” Aguilar
 
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-Developing-green)
+**Software Engineer | Full Stack JavaScript | Educador**
 
-## 🛠️ Experiencia Profesional
+---
 
-- **CoderHouse**: Compartiendo conocimiento como **Profesor**
-- **Bysbit**: Innovando como **Full-Stack Developer**
-- **Wespeak**: Innovando como **Sofware Engineer**
-- **Campeak**: Innovando como **Sofware Engineer**
+## 🌱 Sobre mí
 
-## 🌱 Aprendizaje Actual
+Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones escalables y eficientes mientras comparto conocimiento con otros.
 
-- Dominando **Next.js** para crear aplicaciones web robustas y escalables.
-- Perfeccionando habilidades de **BackEnd** para que los datos fluyan como deben.
-- Entusiasmado por aprender habilidades de **DevOps**.
+---
 
-## 🔗 Colaboraciones
+## 🛠️ Habilidades Técnicas
 
-- Busco participar en **proyectos de alta complejidad** donde pueda aportar mi creatividad y experiencia técnica.
+| **Frontend**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Backend**                                                                                                                                                                                                                          | **Bases de datos**                                                                                                  | **Librerías & Tools**       | **Arquitectura**                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white) body-parser | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) | Axios, shadcn/ui, Sequelize | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) |
 
-## 🧩 Ayuda que Necesito
 
-- Estoy en la búsqueda de **enseñar nuevas habilidades e información de referencia** actualizada para mantenerme a la vanguardia en el sector tecnológico.
+---
 
-## 💬 Consultas Técnicas
+## 💡 Soft Skills
 
-- Pregúntame sobre **mejores prácticas** en **HTML, CSS, JavaScript**, y el uso eficiente de **Git** y **GitHub**.
+* ✨ Comunicación efectiva y trabajo en equipo
+* 🧠 Resolución de problemas y pensamiento lógico
+* 🎓 Docencia y mentoring de compañeros y estudiantes
+* ⚡ Adaptabilidad y aprendizaje continuo
+
+---
+
+## 💼 Experiencia
+
+* **CoderHouse**: Profesor de programación y soft skills
+* **Bysbit, Wespeak, salesup - ecommerce & growth marketing **: Software Engineer / Full Stack Developer
+
+---
 
 ## 📫 Contacto
 
-- Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/)
-
-## 😄 Pronombres
-
-- Llámame **Tincho**, ¡es cómo me conocen! ✨
-
-### ⚡️ Dato Curioso
-
-A diferencia de muchos, mi pantalla es para codificar; no verás películas en mi historial, prefiero la acción en vivo del universo del desarrollo y los thrillers de resolver bugs. 🎬❌👨‍💻✨
-
----
-¿Listo para una colaboración que no necesitará banda sonora? ¡Escribamos nuestra propia epopeya en el IDE! 🚀
-
-&nbsp;  
-&nbsp;
-
-
-## 🧰 Habilidades Técnicas
-
-### 🚀 Frameworks & Libraries
-
-- ¡Dominando **React** y **Next.js** para interfaces dinámicas!
-- Vistiendo aplicaciones con **Style-Components**, **Tailwind CSS** y **Material UI**.
-- Backend con **Node.js**.
-
-### 👩‍💻 IDE Favorito
-
-- ⌨️ **VSCode**: Mi batcueva donde la magia sucede.
-
-### 👩‍💻 Lenguajes
-
-- **C++, JavaScript, HTML5, CSS3**: Mis herramientas para dar vida a la lógica y diseño.
-
-### 🧐 Linters
-
-- Manteniendo el código limpio con **ESLint** y **Prettier**.
-
-### 👨‍💻 Office
-
-- **Jira**, **Miro**, **Notion**, **Trello**.
-- Reportes y documentación a punto con **Word**.
-
-### 💻 Terminal
-
-- Comandos y versiones con **GIT**: Mi pincel para la historia del código.
-
-### 🥅 Freelancer
-
-- Aventuras independientes con **Freelancer**: Donde cada proyecto es un nuevo aprendizaje.
-
-### ⏱️ Plataformas de Trabajo
-
-- **Jira**: Donde el flujo de trabajo se convierte en arte.
-
-### 📚 Educación
-
-¡Estoy comprometido en una educación continua para siempre ofrecer la mejor versión de mis habilidades técnicas y profesionales!
+* 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/)
 
 ---
