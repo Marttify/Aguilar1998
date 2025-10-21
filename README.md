@@ -34,7 +34,7 @@ Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones 
 ## 💼 Experiencia
 
 * **CoderHouse**: Profesor de programación y soft skills
-* **Bysbit, Wespeak, salesup - ecommerce & growth marketing **: Software Engineer / Full Stack Developer
+* **Bysbit, Wespeak, salesup - ecommerce & growth marketing**: Software Engineer / Full Stack Developer
 
 ---
 
