@@ -7,13 +7,13 @@
 
 ---
 
-## 🌱 Sobre mí
+## Sobre mí
 
 Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones escalables y eficientes mientras comparto conocimiento con otros.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 | **Frontend**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Backend**                                                                                                                                                                                                                          | **Bases de datos**                                                                                                  | **Librerías & Tools**       | **Arquitectura**                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones 
 
 ---
 
-## 💡 Soft Skills
+## Soft Skills
 
 * ✨ Comunicación efectiva y trabajo en equipo
 * 🧠 Resolución de problemas y pensamiento lógico
@@ -31,14 +31,14 @@ Apasionado por el desarrollo web y la enseñanza. Me enfoco en crear soluciones 
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 * **CoderHouse**: Profesor de programación y soft skills
 * **Bysbit, Wespeak, salesup - ecommerce & growth marketing**: Software Engineer / Full Stack Developer
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-martin-aguilar/)
 
